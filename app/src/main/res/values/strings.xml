@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EdgeSlide</string>
+    <string name="accessibility_description">Swipe from the edges to go back. Hold for 5 seconds to open the Power Menu.</string>
+</resources>
